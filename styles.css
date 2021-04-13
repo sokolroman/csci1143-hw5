@@ -1,0 +1,52 @@
+body {
+  color:black;
+  background-color:mediumseagreen;
+}
+header{
+text-align: center;
+
+}
+ p {
+        font-family: Arial, Helvetica, sans-serif;
+	 font-size:16px;
+        }
+.yellow {
+background-color:yellow;
+color:black;
+padding:10px;
+border:2px solid black;
+width:500px;
+margin:15px;
+}
+#wrapper{
+max-width:500px;
+	align:center;
+}
+.dotted{
+border-bottom: dotted;
+border-bottom-width: 2px black;
+margin: 25px;
+width: 500px;
+}
+
+.rounded{
+border-radius:6px;
+}
+.shadow{
+box-shadow: 5px 10px #222;
+}
+.seethrough{
+align:center;
+background-color:red;
+color:white;
+width:500px;
+border: 3px solid grey;
+top-margin: 50px;
+opacity: 50%;
+margin:15px;
+}
+.footer{
+	text-align: right;
+	bottom: 0px;
+	width: 100%;
+}
